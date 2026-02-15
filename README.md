@@ -44,7 +44,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/neocord.git
+git clone https://github.com/MrRealmWLS/NeoCord.git
 cd neocord
 ```
 
